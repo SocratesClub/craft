@@ -14,6 +14,5 @@
 - https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/tricks.ipynb#/
 - https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/Writing4SocialScientists.ipynb#/
 - https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/Essay%20Writing%20Guide.ipynb#/
-- https://SocratesAcademy.github.io/craft/notebook/Essay%20Writing%20Guide.slides.html#/
-
+- https://computational-communication.com/workshop/notebook/Essay%20Writing%20Guide.slides.html#/
 
