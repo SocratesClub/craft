@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/543384/194266813-923ba7a3-9481-4daf-9a4b-1b291253db52.png)
+
 # Jupyter Notebook
 
 - https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb?flush_cache=true
