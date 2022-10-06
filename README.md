@@ -21,5 +21,4 @@
 - https://socratesacademy.github.io/craft/tricks.slides.html#/
 - https://socratesacademy.github.io/craft/Writing4SocialScientists.slides.html#/
 - https://socratesacademy.github.io/craft/Essay%20Writing%20Guide.slides.html#/
-- https://socratesacademy.github.io/craft/Essay%20Writing%20Guide.slides.html#/
 
