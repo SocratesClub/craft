@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/543384/194266813-923ba7a3-9481-4daf-9a4b-1b291253db52.png)
 
 
-# 《写作是门手艺：新闻传播学毕业论文写作》
+# 《写作是门手艺：新闻传播学学术论文写作》
 
-The Craft of Writing: Graduation Thesis Writing of Journalism and Communication
+The Craft of Writing: A Writing of Journalism and Communication
 
 王成军
 
