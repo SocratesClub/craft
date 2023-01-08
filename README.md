@@ -43,7 +43,7 @@ The Craft of Writing: A Writing of Journalism and Communication
 - https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/tricks.ipynb?flush_cache=true
 - https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/Writing4SocialScientists.ipynb?flush_cache=true
 - https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/Essay%20Writing%20Guide.ipynb?flush_cache=true
-- - https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/how-to-write-a-lot-2023.ipynb?flush_cache=true
+- https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/how-to-write-a-lot-2023.ipynb?flush_cache=true
 
 
 
@@ -54,7 +54,7 @@ The Craft of Writing: A Writing of Journalism and Communication
 - https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/tricks.ipynb#/
 - https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/Writing4SocialScientists.ipynb#/
 - https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/Essay%20Writing%20Guide.ipynb#/
-- - https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/how-to-write-a-lot-2023.ipynb#/
+- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/how-to-write-a-lot-2023.ipynb#/
 
 
 ## Reveal.js Slides
