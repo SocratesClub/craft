@@ -56,7 +56,7 @@ The Craft of Writing: A Writing of Journalism and Communication
 - https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/Writing4SocialScientists.ipynb#/
 - https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/Essay%20Writing%20Guide.ipynb#/
 - https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/how-to-write-a-lot-2023.ipynb#/
-
+- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/hnovelist-as-a-profession.ipynb#/
 
 ## Reveal.js Slides
 - https://socratesacademy.github.io/craft/The-Craft-of-Writing.slides.html#/
