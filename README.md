@@ -44,6 +44,7 @@ The Craft of Writing: A Writing of Journalism and Communication
 - https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/Writing4SocialScientists.ipynb?flush_cache=true
 - https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/Essay%20Writing%20Guide.ipynb?flush_cache=true
 - https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/how-to-write-a-lot-2023.ipynb?flush_cache=true
+- https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/novelist-as-a-profession.ipynb?flush_cache=true
 
 
 
@@ -64,5 +65,5 @@ The Craft of Writing: A Writing of Journalism and Communication
 - https://socratesacademy.github.io/craft/Writing4SocialScientists.slides.html#/
 - https://socratesacademy.github.io/craft/Essay%20Writing%20Guide.slides.html#/
 - https://socratesacademy.github.io/craft/how-to-write-a-lot-2023.slides.html#/
-
+- https://socratesacademy.github.io/craft/novelist-as-a-profession.slides.html
 
