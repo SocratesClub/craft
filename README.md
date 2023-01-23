@@ -65,5 +65,5 @@ The Craft of Writing: A Writing of Journalism and Communication
 - https://socratesacademy.github.io/craft/Writing4SocialScientists.slides.html#/
 - https://socratesacademy.github.io/craft/Essay%20Writing%20Guide.slides.html#/
 - https://socratesacademy.github.io/craft/how-to-write-a-lot-2023.slides.html#/
-- https://socratesacademy.github.io/craft/novelist-as-a-profession.slides.html
+- https://socratesacademy.github.io/craft/novelist-as-a-profession.slides.html#/
 
