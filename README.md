@@ -3,7 +3,7 @@
 
 # 《写作是门手艺：新闻传播学术论文写作》
 
-The Craft of Writing: A Writing of Journalism and Communication
+The Craft of Writing: Academic Writing of Journalism and Communication
 
 王成军
 
