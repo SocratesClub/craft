@@ -38,32 +38,32 @@ The Craft of Writing: Academic Writing of Journalism and Communication
 ## 教案 & 讲稿
 ## Jupyter Notebook
 
-- https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb?flush_cache=true
-- https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/WritingResearchGaps.ipynb?flush_cache=true
-- https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/tricks.ipynb?flush_cache=true
-- https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/Writing4SocialScientists.ipynb?flush_cache=true
-- https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/Essay%20Writing%20Guide.ipynb?flush_cache=true
-- https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/how-to-write-a-lot-2023.ipynb?flush_cache=true
-- https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/novelist-as-a-profession.ipynb?flush_cache=true
+- https://nbviewer.jupyter.org/github/SocratesClub/craft/blob/main/The-Craft-of-Writing.ipynb?flush_cache=true
+- https://nbviewer.jupyter.org/github/SocratesClub/craft/blob/main/WritingResearchGaps.ipynb?flush_cache=true
+- https://nbviewer.jupyter.org/github/SocratesClub/craft/blob/main/tricks.ipynb?flush_cache=true
+- https://nbviewer.jupyter.org/github/SocratesClub/craft/blob/main/Writing4SocialScientists.ipynb?flush_cache=true
+- https://nbviewer.jupyter.org/github/SocratesClub/craft/blob/main/Essay%20Writing%20Guide.ipynb?flush_cache=true
+- https://nbviewer.jupyter.org/github/SocratesClub/craft/blob/main/how-to-write-a-lot-2023.ipynb?flush_cache=true
+- https://nbviewer.jupyter.org/github/SocratesClub/craft/blob/main/novelist-as-a-profession.ipynb?flush_cache=true
 
 
 
 ## Jupyter Slides
 
-- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb#/
-- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/WritingResearchGaps.ipynb#/
-- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/tricks.ipynb#/
-- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/Writing4SocialScientists.ipynb#/
-- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/Essay%20Writing%20Guide.ipynb#/
-- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/how-to-write-a-lot-2023.ipynb#/
-- https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/hnovelist-as-a-profession.ipynb#/
+- https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/The-Craft-of-Writing.ipynb#/
+- https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/WritingResearchGaps.ipynb#/
+- https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/tricks.ipynb#/
+- https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/Writing4SocialScientists.ipynb#/
+- https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/Essay%20Writing%20Guide.ipynb#/
+- https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/how-to-write-a-lot-2023.ipynb#/
+- https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/hnovelist-as-a-profession.ipynb#/
 
 ## Reveal.js Slides
-- https://socratesacademy.github.io/craft/The-Craft-of-Writing.slides.html#/
-- https://socratesacademy.github.io/craft/WritingResearchGaps.slides.html#/
-- https://socratesacademy.github.io/craft/tricks.slides.html#/
-- https://socratesacademy.github.io/craft/Writing4SocialScientists.slides.html#/
-- https://socratesacademy.github.io/craft/Essay%20Writing%20Guide.slides.html#/
-- https://socratesacademy.github.io/craft/how-to-write-a-lot-2023.slides.html#/
-- https://socratesacademy.github.io/craft/novelist-as-a-profession.slides.html#/
+- https://SocratesClub.github.io/craft/The-Craft-of-Writing.slides.html#/
+- https://SocratesClub.github.io/craft/WritingResearchGaps.slides.html#/
+- https://SocratesClub.github.io/craft/tricks.slides.html#/
+- https://SocratesClub.github.io/craft/Writing4SocialScientists.slides.html#/
+- https://SocratesClub.github.io/craft/Essay%20Writing%20Guide.slides.html#/
+- https://SocratesClub.github.io/craft/how-to-write-a-lot-2023.slides.html#/
+- https://SocratesClub.github.io/craft/novelist-as-a-profession.slides.html#/
 
