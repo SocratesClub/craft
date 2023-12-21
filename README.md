@@ -56,7 +56,7 @@ The Craft of Writing: Academic Writing of Journalism and Communication
 - https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/Writing4SocialScientists.ipynb#/
 - https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/Essay%20Writing%20Guide.ipynb#/
 - https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/how-to-write-a-lot-2023.ipynb#/
-- https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/hnovelist-as-a-profession.ipynb#/
+- https://nbviewer.jupyter.org/format/slides/github/SocratesClub/craft/blob/main/novelist-as-a-profession.ipynb#/
 
 ## Reveal.js Slides
 - https://SocratesClub.github.io/craft/The-Craft-of-Writing.slides.html#/
